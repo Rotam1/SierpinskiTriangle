@@ -1,8 +1,3 @@
-
-Tam, Ronny <rotam1@s.sfusd.edu>
-11:52 PM (0 minutes ago)
-to me
-
 ArrayList <Integer> values = new ArrayList <Integer>();
 int click = 0;
 int n = 700;
